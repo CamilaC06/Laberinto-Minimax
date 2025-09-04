@@ -20,5 +20,6 @@ Una vez que uno de los personajes gana, el juego termina. No tiene un límite de
 + Bucle While (bucle principal del juego)
 + Condicionales if, else (para determinar el ganador)
 + Librerías: random y time
-+ Representación visual: emojis en la consola y “.” para los espacios vacíos # ¿Cómo ejecutarlo?
-Ejecutar Visual Studio Code, abrir el archivo, ir a la terminal y escribir: “python Final.py” para ejecutarlo.
++ Representación visual: emojis en la consola y “.” para los espacios vacíos
+# ¿Cómo ejecutarlo?
+Ejecutar Visual Studio Code, abrir el archivo, ir a la terminal y escribir: “python minimax_lab.py” para ejecutarlo.
